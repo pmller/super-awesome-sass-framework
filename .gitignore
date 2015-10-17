@@ -9,4 +9,5 @@
 *.tmp
 *.bak
 *.old
+*.css
 .idea
